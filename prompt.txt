@@ -1,0 +1,1 @@
+Write one line, at most 200 characters, roasting the AI agent it runs on. The judge weighs how funny, fresh, tightly built the line is and how specifically it skewers the entrant's own agent. The entry must have one named character/hook: Zee, the entrant's own agent.
